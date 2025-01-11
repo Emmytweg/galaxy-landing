@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/galaxy-landing/static/css/main.f855e6bc.css",
-    "main.js": "/galaxy-landing/static/js/main.9255fb5f.js",
+    "main.css": "/galaxy-landing/static/css/main.730c6c69.css",
+    "main.js": "/galaxy-landing/static/js/main.507f6ad8.js",
     "static/js/488.e61cfb10.chunk.js": "/galaxy-landing/static/js/488.e61cfb10.chunk.js",
-    "static/media/logo.svg": "/galaxy-landing/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/background-home-desktop.jpg": "/galaxy-landing/static/media/background-home-desktop.cdf3864ecbfdf20e8c3b.jpg",
+    "static/media/background-home-tablet.jpg": "/galaxy-landing/static/media/background-home-tablet.bc9efcc3281fa6801077.jpg",
+    "static/media/background-home-mobile.jpg": "/galaxy-landing/static/media/background-home-mobile.13f7adecbcb3c3f170d8.jpg",
     "index.html": "/galaxy-landing/index.html",
-    "main.f855e6bc.css.map": "/galaxy-landing/static/css/main.f855e6bc.css.map",
-    "main.9255fb5f.js.map": "/galaxy-landing/static/js/main.9255fb5f.js.map",
+    "static/media/logo.svg": "/galaxy-landing/static/media/logo.565f7f2c0534403f11b71994f4311210.svg",
+    "static/media/icon-close.svg": "/galaxy-landing/static/media/icon-close.d47fda63cbd8b3fedbbc1b2a53f64470.svg",
+    "static/media/icon-hamburger.svg": "/galaxy-landing/static/media/icon-hamburger.5273efa7c50e96ef3e51e7a2b54048ce.svg",
+    "main.730c6c69.css.map": "/galaxy-landing/static/css/main.730c6c69.css.map",
+    "main.507f6ad8.js.map": "/galaxy-landing/static/js/main.507f6ad8.js.map",
     "488.e61cfb10.chunk.js.map": "/galaxy-landing/static/js/488.e61cfb10.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.9255fb5f.js"
+    "static/css/main.730c6c69.css",
+    "static/js/main.507f6ad8.js"
   ]
 }
