@@ -1,21 +1,28 @@
 {
   "files": {
-    "main.css": "/galaxy-landing/static/css/main.730c6c69.css",
-    "main.js": "/galaxy-landing/static/js/main.507f6ad8.js",
+    "main.css": "/galaxy-landing/static/css/main.374c3ae9.css",
+    "main.js": "/galaxy-landing/static/js/main.53d8a50f.js",
     "static/js/488.e61cfb10.chunk.js": "/galaxy-landing/static/js/488.e61cfb10.chunk.js",
     "static/media/background-home-desktop.jpg": "/galaxy-landing/static/media/background-home-desktop.cdf3864ecbfdf20e8c3b.jpg",
+    "static/media/image-moon.jpg": "/galaxy-landing/static/media/image-moon.d287d07182de3015952f.jpg",
+    "static/media/background-destination-desktop.jpg": "/galaxy-landing/static/media/background-destination-desktop.468b922c69bf5499b4bc.jpg",
+    "static/media/image-europa.jpg": "/galaxy-landing/static/media/image-europa.3e95f7d0a16fe2ebf4c6.jpg",
     "static/media/background-home-tablet.jpg": "/galaxy-landing/static/media/background-home-tablet.bc9efcc3281fa6801077.jpg",
+    "static/media/image-mars.jpg": "/galaxy-landing/static/media/image-mars.1b224c8663251270d79f.jpg",
+    "static/media/background-destination-tablet.jpg": "/galaxy-landing/static/media/background-destination-tablet.8f55d346d8b6cfd95ab7.jpg",
+    "static/media/image-titan.jpg": "/galaxy-landing/static/media/image-titan.d4b078f9ce17e686ae99.jpg",
     "static/media/background-home-mobile.jpg": "/galaxy-landing/static/media/background-home-mobile.13f7adecbcb3c3f170d8.jpg",
+    "static/media/background-destination-mobile.jpg": "/galaxy-landing/static/media/background-destination-mobile.e0131e27e751ead1a922.jpg",
     "index.html": "/galaxy-landing/index.html",
     "static/media/logo.svg": "/galaxy-landing/static/media/logo.565f7f2c0534403f11b71994f4311210.svg",
     "static/media/icon-close.svg": "/galaxy-landing/static/media/icon-close.d47fda63cbd8b3fedbbc1b2a53f64470.svg",
     "static/media/icon-hamburger.svg": "/galaxy-landing/static/media/icon-hamburger.5273efa7c50e96ef3e51e7a2b54048ce.svg",
-    "main.730c6c69.css.map": "/galaxy-landing/static/css/main.730c6c69.css.map",
-    "main.507f6ad8.js.map": "/galaxy-landing/static/js/main.507f6ad8.js.map",
+    "main.374c3ae9.css.map": "/galaxy-landing/static/css/main.374c3ae9.css.map",
+    "main.53d8a50f.js.map": "/galaxy-landing/static/js/main.53d8a50f.js.map",
     "488.e61cfb10.chunk.js.map": "/galaxy-landing/static/js/488.e61cfb10.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.730c6c69.css",
-    "static/js/main.507f6ad8.js"
+    "static/css/main.374c3ae9.css",
+    "static/js/main.53d8a50f.js"
   ]
 }
